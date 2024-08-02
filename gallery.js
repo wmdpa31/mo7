@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "박성권 ♥ 정지원의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/vnPHLvr.png",
+        imageUrl: "https://i.imgur.com/n273uzu.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
