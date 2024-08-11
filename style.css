@@ -8,8 +8,8 @@ body {
   position: absolute;
   top: 10px; /* 상단에서 10px 내려오도록 조정 */
   right: 10px; /* 오른쪽에서 10px 떨어지도록 조정 */
-  width: 6%;
-  height: 3%;
+  width: 25px;
+  height: 25px;
   cursor: pointer;
 }
 
